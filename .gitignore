@@ -1,0 +1,10 @@
+.idea
+/vendor/
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+
+###> os files ###
+.DS_Store
+###< os files ###
+.deptrac.cache

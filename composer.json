@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">7.3",
+        "orbit-core/infrastructure": "dev-master",
+        "orbit-core/data-transfer": "dev-master"
+    },
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    }
+}
